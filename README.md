@@ -126,6 +126,11 @@ Aşağıda uygulamaya ait oyun içi ekranlardan alınmış örnek görüntüler 
 
 ## Ek Bilgiler
 
-**Ders:** Görsel Programlama 2  
-**Proje Türü:** Dönem Sonu Projesi  
+- **Ders:** Görsel Programlama 2  
+- **Proje Türü:** Dönem Sonu Projesi  
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="300">
+</p>
 
