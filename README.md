@@ -57,8 +57,9 @@ Kullanıcının amacı:
 - Temiz ve anlaşılır kod yazımı sağlamaktır
 
 ## Kurulum
-Assets klasörün içindeki rar dosyasını indiriniz 
-İndirdiğiniz .rar dosyasını çıkartınız.
+Assets klasörün içindeki 3 parttan oluşan rar dosyalarını indiriniz 
+NOT: Dosya boyutu çok büyük olduğu için 3 ayrı .rar dosyası olarak oluşturmak zorunda kaldım. (Alternatif yöntemi yapamadım)
+İndirdiğiniz part1 olan .rar dosyasının içindeki klasörünü çıkartınız.
 - Klasörün içinde .sln dosyasını açarak kodlara ve tasarıma ulaşabilirsiniz
 - Klasörün içinde .exe dosyaları -> Klasörü açtığınızda
 <br> -> **GirişEkran\bin\Release\net8.0-windows** bulunmaktadır.
