@@ -50,19 +50,21 @@ Kullanıcının amacı:
 
 ## Bu projenin amacı;
 - WinForms bileşenlerini etkin kullanmak
+- Uygulama başlangıcında kullanıcı deneyimini iyileştirmek amacıyla form açılışı Fade-In (Opacity) animasyonu ile sağlanmıştır.
 - Formlar arası geçişleri doğru şekilde yönetmek
 - Kullanıcı giriş–kayıt sistemini uygulamak
+- Kullanıcı giriş ve kayıt ol ekranlarında, şifre alanlarında Enter tuşuna basıldığında giriş yap / kayıt ol butonları tetiklenmektedir.
 - Neon Database (PostgreSQL) kullanarak kullanıcı verilerini bulut tabanlı olarak saklamak
 - Oyun mantığını kod tarafında doğru kurmak
 - Temiz ve anlaşılır kod yazımı sağlamaktır
 
 ## Kurulum
-Assets klasörün içindeki 3 parttan oluşan rar dosyalarını indiriniz 
+Assets klasörün içindeki 3 parttan oluşan .rar dosyalarını indiriniz 
 NOT: Dosya boyutu çok büyük olduğu için 3 ayrı .rar dosyası olarak oluşturmak zorunda kaldım. (Alternatif yöntemi yapamadım)
 İndirdiğiniz part1 olan .rar dosyasının içindeki klasörünü çıkartınız.
 - Klasörün içinde .sln dosyasını açarak kodlara ve tasarıma ulaşabilirsiniz
 - Klasörün içinde .exe dosyaları -> Klasörü açtığınızda
-<br> -> **GirişEkran\bin\Release\net8.0-windows** bulunmaktadır.
+<br> -> **GirişEkran\bin\Release\net8.0-windows** bulunmaktadır. giriş ekranı.exe dosyasına basarak çalıştırabilirsiniz. 
 
 ---
 
