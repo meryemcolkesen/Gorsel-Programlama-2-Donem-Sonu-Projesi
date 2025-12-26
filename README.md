@@ -78,7 +78,7 @@ Aşağıda uygulamaya ait oyun içi ekranlardan alınmış örnek görüntüler 
 - Şifre alanında klavyeden **Enter** tuşuna basıldığında, giriş yapma işlemi otomatik olarak tetiklenmektedir.
   
 <p align="center">
-  <img src="assets/girişekranı.png" width="600"><br>
+  <img src="assets/giriş ekranı.png" width="600"><br>
   <em>Kullanıcının kullanıcı adı ve şifre ile giriş yaptığı ekrandır.</em>
 </p>
 
@@ -130,7 +130,6 @@ Aşağıda uygulamaya ait oyun içi ekranlardan alınmış örnek görüntüler 
 ## Ek Bilgiler
 
 - **Ders:** Görsel Programlama 2  
-- **Proje Türü:** Dönem Sonu Projesi  
 
 
 <p align="center">
